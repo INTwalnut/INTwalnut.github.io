@@ -1,1 +1,7 @@
-theme: jekyll-theme-cayman
+title: 李星羽的实验报告
+description: 云计算课程实验报告发布
+# 指定Jekyll主题（核心配置，必须写）
+theme: jekyll-theme-minimal  # 简约主题，推荐用于实验报告
+# 其他默认配置（无需修改）
+markdown: kramdown
+permalink: /:year/:month/:day/:title.html
